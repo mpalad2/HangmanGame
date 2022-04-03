@@ -1,0 +1,18 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body
+{
+	background: rgb(223, 189, 150);
+	text-align: center;
+}
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  background: rgb(223, 189, 150);
+
+  font-family: "Josefin Sans", sans-serif;
+}
